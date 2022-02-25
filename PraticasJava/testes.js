@@ -66,3 +66,10 @@ function validaIdade(idade){
 var idade = prompt("Qual a sua idade ?");
 console.log(validaIdade(idade)); 
 */
+
+let line = gets().split(" ");
+const A = 10;
+const B = 8;
+let total = A + B;
+console.log("X = " + total +"outro total = " + 1 + 1);
+
